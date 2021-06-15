@@ -1,0 +1,23 @@
+{
+  "name": "rankmyapp-ricknmorty",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuzizon/rankmyapp-ricknmorty.git"
+  },
+  "author": "Arthur Bastos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuzizon/rankmyapp-ricknmorty/issues"
+  },
+  "homepage": "https://github.com/Tuzizon/rankmyapp-ricknmorty#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
